@@ -1,0 +1,206 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@font-face {
+  font-family: Thicccboi;
+  src: url('https://cdn.prod.website-files.com/610611d7a1cb344c65731c96/610611d8a1cb3455c6731cc6_THICCCBOI-SemiBold.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  }
+
+
+:root {
+  /* change the values below to your colors from your palette */
+  --primary-color: #6A994E   ;
+  --secondary-color: #ff8000;
+  --accent1-color: #1F1F1F;
+  --accent2-color: #ff4d00;
+  --accent3-color: #D3D9D4;
+
+  /* change the values below to your chosen font(s) */
+  --heading-font: "Thicccboi";
+  --paragraph-font:"roboto", Helvetica, sans-serif;
+
+  /* these colors below should be chosen from among your palette colors above */
+  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
+  --headline-color-on-color: #f1faee; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #f1faee; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #396E94  ;
+}
+
+
+/*  Look around below...but DON'T CHANGE ANYTHING! */
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 4em;
+  font-size: 18px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 300px;
+}
+h1, h2, h5, h6 {
+  font-family: var(--heading-font);
+  font-weight: 600 !important;
+  color: var(--headline-color-on-white);
+}
+
+ h3, h4 {
+  font-family: var(--heading-font);
+  font-weight: 600 !important;
+}
+
+header h2{
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.overview{
+  text-align: center;
+  font-size: 1.5rem;
+  color: #1a304f;
+}
+
+h2 {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: normal;
+  text-align: left;
+}
+hr {
+  height: 3px;
+  margin: 44px 0;
+  background: var(--accent1-color);
+}
+header {
+  padding: 1em;
+  text-align: center;
+  color: var(--headline-color-on-color);
+  background-color: var(--paragraph-background-color);
+}
+header > h1, header > h2 {
+  color: var(--headline-color-on-color);
+}
+
+p {
+  font-family: var(--paragraph-font);
+  color: var(--nav-background-color);
+  padding: 1em;
+  text-align: left;
+  margin-left: 1rem;
+  font-size: 1.4rem;
+}
+
+ol>li{
+  font-family: var(--paragraph-font);
+  color: var(--nav-background-color);
+  padding: .5em;
+  text-align: left;
+  margin-left: 1rem;
+  font-size: 1.4rem;
+}
+
+ol>li::marker{
+  color:black
+}
+
+
+.colors {
+  width: 100%;
+  min-width: 350px;
+  margin: 30px auto;
+  text-align: center;
+}
+.colors th {
+  background-color: #999;
+}
+.colors td{
+  width: 25%;
+  height: 3em;
+}
+.primary {
+  background-color: var(--primary-color);
+  color: black;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.secondary {
+  background-color: var(--secondary-color);
+  color: black;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.accent1 {
+  background-color: var(--accent1-color);
+  color: white;
+}
+.accent2{
+  background-color: var(--accent2-color);
+  color: black;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.accent3{
+  background-color: var(--accent3-color);
+}
+p.colored {
+  background-color: var(--accent1-color);
+  color: var(--paragraph-color-on-color);
+}
+
+nav a:link, nav a:visited {
+  color: var(--nav-link-color);
+}
+nav a:hover {
+  color: var(--nav-hover-link-color);
+  background-color: var(--nav-hover-background-color);
+}
+.sitemap {
+  display: grid;
+  justify-content: center;
+
+  grid-template-columns: repeat(6, 15%);
+  grid-template-rows: 3em 1.5em 1.5em 3em;
+  grid-template-areas: ". . home home . ."
+    ". . . top . ."
+    ". left left right right ."
+    "page2 page2 . . page3 page3";
+}
+.sitemap > div {
+  text-align: center;
+}
+.sm-home {
+  grid-area: home;
+  background-color: #ccc;
+  line-height: 3em;
+}
+.sm-page2 {
+  grid-area: page2;
+  background-color: #ccc;
+  line-height: 3em;
+}
+.sm-page3 {
+  grid-area: page3;
+  background-color: #ccc;
+  line-height: 3em;
+}
+.top {
+  grid-area: top;
+  border-left: 1px solid;
+}
+.left {
+  grid-area: left;
+  border-top: 1px solid;
+  border-left: 1px solid;
+}
+.right {
+  grid-area: right;
+  border-top: 1px solid;
+  border-right: 1px solid;
+}
