@@ -4,37 +4,37 @@
       "name": "Hypercity",
       "address": "Eastern Bypass roundabout, Port Harcourt",
       "phone": "+234 700 123 4567",
-      "url": "https://zinox.com/",
-      "image": "images/directory/zinox.webp",
+      "url": "https://hypercity.com/",
+      "image": "images/directory/hypercity.webp",
       "memberLevel": "Gold"
     },
     {
       "name": "Flutterwave Inc.",
-      "address": "3 Tech Plaza, Victoria Island, Lagos",
+      "address": "10 King Perekule Street, GRA Phase 2, Port Harcourt",
       "phone": "+234 809 876 5432",
       "url": "https://flutterwave.com/",
-      "image": "images/directory/flutterwave.webp",
+      "image": "images/directory/flutter.webp",
       "memberLevel": "Gold"
     },
     {
       "name": "Paystack Ltd.",
-      "address": "8 Startup Way, Yaba, Lagos",
+      "address": "32 Ada George Road, Rumueme, Port Harcourt",
       "phone": "+234 802 456 7890",
       "url": "https://paystack.com/",
-      "image": "images/directory/paystack.webp",
+      "image": "images/directory/paystack.png",
       "memberLevel": "Silver"
     },
     {
       "name": "FarmCrowdy",
-      "address": "45 Agric Hub Road, Kaduna",
+      "address": "15 Eliozu Road, Port Harcourt",
       "phone": "+234 803 334 7788",
       "url": "https://farmcrowdy.com/",
-      "image": "images/directory/farmcrowdy.webp",
+      "image": "images/directory/farmcrowdy.png",
       "memberLevel": "Bronze"
     },
     {
       "name": "Konga Online",
-      "address": "18 E-commerce Street, Lekki, Lagos",
+      "address": "45 Trans-Amadi Industrial Layout, Port Harcourt",
       "phone": "+234 701 111 2222",
       "url": "https://konga.com/",
       "image": "images/directory/konga.webp",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Andela Nigeria",
-      "address": "27 Tech Crescent, Yaba, Lagos",
+      "address": "23 Old GRA Road, Port Harcourt",
       "phone": "+234 812 222 3333",
       "url": "https://andela.com/",
       "image": "images/directory/andela.webp",
@@ -50,7 +50,7 @@
     },
     {
       "name": "IrokoTV",
-      "address": "9 Media Street, Lekki Phase 1, Lagos",
+      "address": "7 Peter Odili Road, Abuloma, Port Harcourt",
       "phone": "+234 818 444 5555",
       "url": "https://irokotv.com/",
       "image": "images/directory/irokotv.webp",

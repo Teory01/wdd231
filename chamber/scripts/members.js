@@ -1,4 +1,4 @@
-const url = "https://teory01.github.io/wdd230/chamber/data/members.json";
+const url = "https://teory01.github.io/wdd231/chamber/data/members.json";
 
 const cards = document.getElementById("cards");
 
