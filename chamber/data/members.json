@@ -1,0 +1,60 @@
+{
+  "companies": [
+    {
+      "name": "Hypercity",
+      "address": "Eastern Bypass roundabout, Port Harcourt",
+      "phone": "+234 700 123 4567",
+      "url": "https://zinox.com/",
+      "image": "images/directory/zinox.webp",
+      "memberLevel": "Gold"
+    },
+    {
+      "name": "Flutterwave Inc.",
+      "address": "3 Tech Plaza, Victoria Island, Lagos",
+      "phone": "+234 809 876 5432",
+      "url": "https://flutterwave.com/",
+      "image": "images/directory/flutterwave.webp",
+      "memberLevel": "Gold"
+    },
+    {
+      "name": "Paystack Ltd.",
+      "address": "8 Startup Way, Yaba, Lagos",
+      "phone": "+234 802 456 7890",
+      "url": "https://paystack.com/",
+      "image": "images/directory/paystack.webp",
+      "memberLevel": "Silver"
+    },
+    {
+      "name": "FarmCrowdy",
+      "address": "45 Agric Hub Road, Kaduna",
+      "phone": "+234 803 334 7788",
+      "url": "https://farmcrowdy.com/",
+      "image": "images/directory/farmcrowdy.webp",
+      "memberLevel": "Bronze"
+    },
+    {
+      "name": "Konga Online",
+      "address": "18 E-commerce Street, Lekki, Lagos",
+      "phone": "+234 701 111 2222",
+      "url": "https://konga.com/",
+      "image": "images/directory/konga.webp",
+      "memberLevel": "Silver"
+    },
+    {
+      "name": "Andela Nigeria",
+      "address": "27 Tech Crescent, Yaba, Lagos",
+      "phone": "+234 812 222 3333",
+      "url": "https://andela.com/",
+      "image": "images/directory/andela.webp",
+      "memberLevel": "Silver"
+    },
+    {
+      "name": "IrokoTV",
+      "address": "9 Media Street, Lekki Phase 1, Lagos",
+      "phone": "+234 818 444 5555",
+      "url": "https://irokotv.com/",
+      "image": "images/directory/irokotv.webp",
+      "memberLevel": "Bronze"
+    }
+  ]
+}
