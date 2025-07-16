@@ -13,7 +13,7 @@
       "address": "10 King Perekule Street, GRA Phase 2, Port Harcourt",
       "phone": "+234 809 876 5432",
       "url": "https://flutterwave.com/",
-      "image": "images/directory/flutter.webp",
+      "image": "images/directory/flutterwave.webp",
       "memberLevel": "Gold"
     },
     {
@@ -53,7 +53,7 @@
       "address": "7 Peter Odili Road, Abuloma, Port Harcourt",
       "phone": "+234 818 444 5555",
       "url": "https://irokotv.com/",
-      "image": "images/directory/irokotv.webp",
+      "image": "images/directory/iroko.webp",
       "memberLevel": "Bronze"
     }
   ]
