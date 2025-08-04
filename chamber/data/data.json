@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Port Harcourt Pleasure Park",
+    "image": "images/discover/pleasure-park.webp",
+    "address": "ABA Road, Port Harcourt, Rivers State",
+    "description": "A modern recreational park with a lake, mini-golf, playgrounds, and fun activities for all ages."
+  },
+  {
+    "title": "Isaac Boro Garden Park",
+    "image": "images/discover/isaac-boro.webp",
+    "address": "Old GRA, Port Harcourt, Rivers State",
+    "description": "A tranquil park dedicated to Major Isaac Boro, ideal for picnics and peaceful walks."
+  },
+  {
+    "title": "Port Harcourt Mall",
+    "image": "images/discover/ph-mall.webp",
+    "address": "Azikiwe Road, Port Harcourt, Rivers State",
+    "description": "A central shopping destination with retail stores, a cinema, and eateries."
+  },
+  {
+    "title": "Rivers State Cultural Center",
+    "image": "images/discover/cultural-center.webp",
+    "address": "Bonny Street, Port Harcourt, Rivers State",
+    "description": "Showcases traditional dance, music, and art from the diverse cultures of Rivers State."
+  },
+  {
+    "title": "Port Harcourt Tourist Beach",
+    "image": "images/discover/tourist-beach.webp",
+    "address": "Kolabi Creek, Port Harcourt, Rivers State",
+    "description": "A riverside beach resort offering local cuisine, boating, and cultural exhibits."
+  },
+  {
+    "title": "Rivers State Museum",
+    "image": "images/discover/museum-ph.webp",
+    "address": "Secretariat Complex, Port Harcourt, Rivers State",
+    "description": "Explore the rich history of Rivers State through exhibits of artifacts, textiles, and sculptures."
+  },
+  {
+    "title": "University of Port Harcourt",
+    "image": "images/discover/uniport.webp",
+    "address": "East-West Road, Choba, Port Harcourt, Rivers State",
+    "description": "A leading Nigerian university known for research, innovation, and vibrant campus life."
+  },
+  {
+    "title": "Mile One Market",
+    "image": "images/discover/mile-one.webp",
+    "address": "Mile 1, Diobu, Port Harcourt, Rivers State",
+    "description": "A bustling open-air market offering everything from fresh produce to electronics."
+  }
+]
