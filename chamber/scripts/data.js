@@ -1,4 +1,4 @@
-const url = "https://avee1000.github.io/wdd231/chamber/data/data.json";
+const url = "https://teory01.github.io/wdd231/chamber/data/data.json";
 async function getData() {
     const response = await fetch(url);
     const data = await response.json();
@@ -7,7 +7,7 @@ async function getData() {
   
 async function buildCards() {
     const allData =  await getData();
-    const container = document.getElementById('edo-container');
+    const container = document.getElementById('rivers-container');
     allData.forEach(attraction => {
       const cards = document.createElement('div');
       cards.className = 'cards';
